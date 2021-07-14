@@ -1,0 +1,59 @@
+.main-row{
+    padding-left: 150px;
+    margin-left: 250px;
+    margin-top: 15px;
+}
+.Eng{
+    
+    width: 90%;
+    
+}
+.Eng1{
+    height: 300px;
+    width: 50%;
+}
+.blog-widget{
+    height: 500px !important;
+}
+.Row2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.titl{
+    color: orange;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+.pills{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    height: 100%;
+    width: 250px;
+    background-color: orange;
+}
+.home-site{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.search{
+  justify-content: center;
+  margin-top: 5px;
+  margin-bottom: 10px !important;
+  margin-left: 200px;
+  
+}
+
+
+.search_input{
+  width: 550px;
+  border-color: orange;
+}
+.butn{
+    color: white;
+    background-color:orange;
+    border-color: orange;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.upperbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: orange;
+    
+    
+    
+    
+}
+.upperbar a{
+    padding: 10px 20px;
+    color: white;
+    
+    
+}
+.image{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.image4
+{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;  
+}

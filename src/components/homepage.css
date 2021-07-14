@@ -1,0 +1,51 @@
+.first-row{
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px
+}
+.land_page{
+    background-color: orange;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    margin-left: 10px;
+
+}
+.image{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+.land_page a {
+    color: white;
+    padding: 10px 30px;
+    font-size: 20px;
+    
+}
+.footer {
+    background-color:rgb(243, 184, 74);
+    height: 100px;
+    
+}
+.pagefooter{
+  margin-left: 550px;  
+  color: white;
+
+}
+.pagecopyright{
+    margin-top: 50px;
+    color: white;
+    background-color: orange;
+    
+}
+.copyright{
+    margin-left: 550px;
+}
+
+
+
+
