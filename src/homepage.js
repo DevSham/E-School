@@ -137,14 +137,14 @@ class Homepage extends Component{
 
                                     <div className="d-flex">
                                         <div className="read">
-                                            <a href="/app-form/Form" className="link font-medium" style={{cursor : 'pointer'}}>
+                                            <Link to={"/app-form/Form"} className="link font-medium" style={{cursor : 'pointer'}}>
                                                 Access Content
-                                            </a>
+                                            </Link>
                                         </div>
                                         <div className="ml-auto">
-                                            <a href="/" className="link mr-2" id="TooltipExample3">
+                                            <Link to={"/"} className="link mr-2" id="TooltipExample3">
                                                 <i className="mdi mdi-heart-outline" />
-                                            </a>
+                                            </Link>
                                         </div>
                                     </div>
                                 </CardBody>

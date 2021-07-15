@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import validate from './ValidateInfo';
 import useForm from './useForm';
 import './Form.css';
-import img1 from '../../img1.jpg'
+import img1 from './img1.jpg'
 
 
 const FormSignup = ({ submitForm }) => {
